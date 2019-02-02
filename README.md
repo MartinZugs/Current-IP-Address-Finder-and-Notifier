@@ -4,5 +4,5 @@ This is a program that wil fetch your current IP address whenever it changes and
 
 ## Required external libraries
 
-In order to run this you must have a Twilio account and you must download and install the helper library from Twilio. Follow the instructions listen on their website to install properly.
+In order to run this you must have a Twilio account and you must download and install the helper library from Twilio. Follow the instructions listed on their website to install properly.
 Helper library: https://www.twilio.com/docs/libraries/python
