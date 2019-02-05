@@ -1,6 +1,6 @@
 # Current IP Address Finder and Notifier Description
 
-This is a program that fetches your current IP address whenever it changes and send you a text and email containing your current IP address. In order to have this run consantly you must automate this program using crontab on a raspberry pi. This is intended to run through a Raspberry Pi and written in Python 3. Big thanks to Alexander Baran-Harper on YouTube for all of the helpful Raspberry Pi tutorials!
+This is a program that fetches your current IP address whenever it changes and sends you a text and email containing your current IP address. In order to have this run consantly you must automate this program using crontab on a raspberry pi. This is intended to run through a Raspberry Pi and written in Python 3. Big thanks to Alexander Baran-Harper on YouTube for all of the helpful Raspberry Pi tutorials!
 
 ## Required external libraries and assets
 
